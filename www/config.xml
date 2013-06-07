@@ -6,14 +6,14 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Think Content</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+      A tool to assess your content marketing maturity in a quick and easy way.
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://arnia.ro/" email="bogdan.nechita@arnia.ro">
+        Arnia Software
     </author>
 
     <!--
